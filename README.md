@@ -2,7 +2,7 @@
 
 An [Omarchy](https://omarchy.org) theme in electric blue on white, inspired by the aesthetics of [Nous Research](https://nousresearch.com). Every colour is a tint of `#0000f2` over white, in the spirit of the stock White theme.
 
-![Electric Blue preview](preview.png)
+![Electric Blue preview](preview.webp)
 
 ## Install
 
