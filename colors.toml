@@ -1,0 +1,37 @@
+# Electric Blue — blue on white, in the spirit of the stock White theme.
+# Every color is a tint of #0000f2 over white; the ANSI palette keeps
+# White's near-monochrome spread, just in blue.
+mode = "light"
+
+accent = "#0000f2"
+selection = "#bfbffc"
+muted = "#8080f8"
+
+background = "#ffffff"
+dark_background = "#f5f5fe"
+darker_background = "#e8e8fe"
+lighter_background = "#bfbffc"
+
+foreground = "#0000f2"
+dark_foreground = "#bfbffc"
+light_foreground = "#0000f2"
+bright_foreground = "#0000f2"
+
+red = "#2929f4"
+yellow = "#4a4af6"
+green = "#3b3bf5"
+cyan = "#3d3df5"
+blue = "#1a1af3"
+magenta = "#2e2ef4"
+
+bright_red = "#2929f4"
+bright_yellow = "#4a4af6"
+bright_green = "#3b3bf5"
+bright_cyan = "#3d3df5"
+bright_blue = "#1a1af3"
+bright_magenta = "#2e2ef4"
+
+# Window borders: solid electric blue when focused, a 30% tint when not
+# (the default inactive border is a neutral grey).
+hyprland_active_border = "rgba(0000f2ff)"
+hyprland_inactive_border = "rgba(0000f24d)"
